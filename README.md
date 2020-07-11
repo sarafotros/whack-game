@@ -1,7 +1,9 @@
 # Whack-awhateveryouwant
+
 ## Brief
+
 Click to start the game.
-You image pops up from diferent fields, user needs to click on the image
+You image pops up from different fields, user needs to click on the image
 before it disappears to get a point.
 Score shows at the top of the page.
 You need to programme a way for the image to decide which field to pop
